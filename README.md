@@ -2,13 +2,18 @@
 
 Welcome to The Potion Maker Mod! Discover your witchy side as you craft potions for humans and monsters alike!
 
-Table of Contents
+Table of Contents:
 
 Overview
+
 How to Play
+
+Game Modes
+
 Features
-Controls
+
 Credits
+
 Overview
 
 The Potion Maker is a simulation-styled minigame compilation, where you perform different tasks (prepping ingredients, brewing, adding intended magic) step-by step to achieve making the perfect potion for your client.
@@ -25,8 +30,12 @@ Losing Conditions: You"ll lose customer loyalty points, which can make you lose 
 
 Features
 
-Story Mode: Unlock different clients as you brew your way through
-Recipe Book: You can go back and practice making different potions to improve your proficiency level, that way you can get a higher score the next time a customer asks for a potion!
-Controls
+Story Mode: Unlock different clients as you brew your way through potions to satisfy your customers. However, you're soon to discover that things seem a bit... off?
 
-Credits Game Developer: Carolina Matos Artist: Carolina Matos Special Thanks:
+Recipe Book: You can go back and practice making different potions to improve your proficiency level, that way you can get a higher score the next time a customer asks for a potion!
+
+Credits
+
+Game Developer: Carolina Matos 
+
+Artist: Carolina Matos
